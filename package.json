@@ -1,0 +1,24 @@
+{
+  "name": "apptest5",
+  "description": "apptest5",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" \u0026\u0026 exit 1",
+    "lint": "eslint . --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alxllabs/apptest5.git"
+  },
+  "keywords": [
+    "kubernetes",
+    "AWS"
+  ],
+  "author": "author",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  }
+}
